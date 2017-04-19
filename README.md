@@ -1,0 +1,1 @@
+This is the repo where you can report issues with the ngDoc.io website, and with specific articles.
